@@ -32,7 +32,7 @@ export async function generateMetadata({
 
   return {
     metadataBase: new URL(
-      process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
+      process.env.NEXT_PUBLIC_SITE_URL ?? "https://eduar-solaez-portfolio.vercel.app",
     ),
     title: t("title"),
     description: t("description"),
