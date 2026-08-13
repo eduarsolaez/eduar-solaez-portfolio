@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Eduar Solaez — Ingeniero de Automatizaciones & Desarrollador de Software",
+    "description": "Portafolio de Eduar Iván Solaez Olivera: automatización de procesos con n8n, desarrollo de software en Python/Java, IA aplicada y ciberseguridad en formación."
+  },
+  "nav": {
+    "about": "Perfil",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "cybersecurity": "Ciberseguridad",
+    "education": "Educación",
+    "contact": "Contacto",
+    "downloadCv": "Descargar CV"
+  },
+  "hero": {
+    "greeting": "> whoami",
+    "role": "Ingeniero de Sistemas",
+    "roles": [
+      "Ingeniero de Automatizaciones",
+      "Desarrollador de Software",
+      "Automatización con IA",
+      "Ciberseguridad — en formación"
+    ],
+    "tagline": "Diseño flujos de automatización, microservicios y herramientas con IA que reducen tiempos de ejecución y mejoran la toma de decisiones en operaciones reales.",
+    "ctaProjects": "Ver proyectos",
+    "ctaContact": "Hablemos"
+  },
+  "about": {
+    "eyebrow": "01. Perfil",
+    "title": "Sobre mí",
+    "paragraphs": [
+      "Soy Ingeniero de Sistemas especializado en automatización de procesos, desarrollo de software e integración de sistemas, con experiencia en análisis de datos y gestión de información geoespacial.",
+      "Construyo soluciones basadas en Inteligencia Artificial, Python, Java y n8n para optimizar operaciones, reducir tiempos de ejecución y mejorar la toma de decisiones en equipos de trabajo reales.",
+      "Me caracteriza la capacidad analítica, el aprendizaje continuo y el enfoque en innovación tecnológica para resolver problemas complejos mediante el uso estratégico de datos y modelos inteligentes."
+    ],
+    "quickFacts": {
+      "role": "Ingeniero de Automatizaciones / Desarrollador de Software",
+      "focus": "IA aplicada, automatización, integración de sistemas",
+      "basedIn": "Barranquilla, Colombia"
+    }
+  },
+  "skills": {
+    "eyebrow": "02. Habilidades",
+    "title": "Competencias técnicas",
+    "categories": {
+      "development": { "label": "Desarrollo" },
+      "aiAutomation": { "label": "Automatización e IA" },
+      "data": { "label": "Datos y visualización" },
+      "devops": { "label": "DevOps" },
+      "cybersecurity": { "label": "Ciberseguridad", "badge": "En formación" }
+    },
+    "items": {
+      "python": "Python",
+      "java": "Java",
+      "n8n": "n8n",
+      "microservices": "Microservicios",
+      "restApis": "APIs REST",
+      "ai": "Inteligencia Artificial",
+      "machineLearning": "Machine Learning",
+      "generativeAi": "IA Generativa",
+      "automation": "Automatización de procesos",
+      "sql": "SQL y bases de datos",
+      "powerBi": "Power BI / Dashboards",
+      "arcgis": "ArcGIS",
+      "git": "Git",
+      "github": "GitHub",
+      "gitlab": "GitLab",
+      "cloud": "Entornos cloud",
+      "linux": "Linux",
+      "offensivePython": "Python ofensivo",
+      "webPentesting": "Pentesting web"
+    }
+  },
+  "experience": {
+    "eyebrow": "03. Experiencia",
+    "title": "Experiencia profesional",
+    "items": {
+      "ises": {
+        "role": "Ingeniero de Automatizaciones / Desarrollador de Software",
+        "bullets": [
+          "Diseño e implementación de flujos de automatización en n8n para conectar aplicaciones, APIs y sistemas de la operación.",
+          "Desarrollo de microservicios enfocados en soportar los flujos de n8n y otros procesos de la operación.",
+          "Desarrollo de aplicaciones de escritorio en Python (backend e interfaz) para automatizar aplicaciones legacy, incluyendo generación de reportes de Oracle BI y procesamiento de archivos Excel.",
+          "Desarrollo de un bot para Android como librería .aar que, mediante servicios de accesibilidad, automatiza la interfaz de una app legacy usada por personal de terreno.",
+          "Levantamiento de procesos operativos en terreno, ejecutando el ciclo completo desde requerimientos hasta el desarrollo de la solución."
+        ]
+      },
+      "gis": {
+        "role": "Analista Actualizador GIS",
+        "bullets": [
+          "Implementación de nuevas tecnologías de Inteligencia Artificial para automatizar procesos operativos y reducir tareas manuales.",
+          "Creación de herramientas web y dashboards para visualización y gestión de información.",
+          "Análisis y visualización de datos geoespaciales mediante ArcGIS.",
+          "Participación en iniciativas de transformación digital integrando IA y automatización en procesos empresariales."
+        ]
+      },
+      "usb": {
+        "role": "Práctica profesional — Coordinación de Laboratorios de Informática",
+        "bullets": [
+          "Soporte técnico nivel 1 a usuarios y equipos de cómputo.",
+          "Verificación y mantenimiento del correcto funcionamiento de los equipos de los laboratorios.",
+          "Instalación, configuración y actualización de software académico y administrativo.",
+          "Gestión básica de usuarios y equipos mediante Active Directory."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "04. Proyectos",
+    "title": "Proyectos destacados",
+    "subtitle": "Trabajo realizado para clientes del sector energético (Air-e, Afinia, Electrohuila) a través de ISES S.A.S. Son proyectos internos de cliente, por lo que no cuentan con repositorio público.",
+    "confidentialBadge": "Proyecto interno",
+    "items": {
+      "n8nAutomation": {
+        "title": "Automatización de flujos con n8n",
+        "description": "Flujos de automatización que conectan aplicaciones, APIs y sistemas operativos de clientes del sector energético, reduciendo tareas manuales repetitivas.",
+        "tags": ["n8n", "APIs REST", "Integración de sistemas"]
+      },
+      "microservices": {
+        "title": "Microservicios de soporte",
+        "description": "Microservicios en Python diseñados para dar soporte a los flujos de n8n y a otros procesos de automatización de la operación.",
+        "tags": ["Microservicios", "Python", "APIs REST"]
+      },
+      "desktopAutomation": {
+        "title": "Automatización de reportes legacy",
+        "description": "Aplicación de escritorio en Python (backend e interfaz) que automatiza la generación de reportes de Oracle BI y el procesamiento de archivos Excel.",
+        "tags": ["Python", "Oracle BI", "Excel"]
+      },
+      "androidBot": {
+        "title": "Bot de accesibilidad para Android",
+        "description": "Librería .aar que usa servicios de accesibilidad de Android para automatizar la interfaz de una app legacy usada por personal de terreno.",
+        "tags": ["Android", "Accessibility Services", ".aar"]
+      },
+      "gisDashboards": {
+        "title": "Dashboards geoespaciales",
+        "description": "Herramientas web y dashboards para visualización y gestión de información geoespacial mediante ArcGIS y Power BI.",
+        "tags": ["ArcGIS", "Power BI", "Geoespacial"]
+      }
+    }
+  },
+  "cybersecurity": {
+    "eyebrow": "05. Ciberseguridad",
+    "title": "Construyendo mi camino en ciberseguridad",
+    "prompt": "$ status --module=ciberseguridad",
+    "intro": "Además del desarrollo y la automatización, estoy invirtiendo tiempo en formarme activamente en ciberseguridad ofensiva y defensiva. No la presento como experiencia consolidada, sino como un área en la que avanzo con constancia.",
+    "tracks": {
+      "linux": { "label": "Fundamentos de Linux", "stage": "Fundamentos" },
+      "python": { "label": "Python ofensivo", "stage": "En progreso" },
+      "pentesting": { "label": "Pentesting web", "stage": "En progreso" }
+    },
+    "disclaimer": "Formación autodidacta y en curso — no equivale a experiencia profesional en ciberseguridad."
+  },
+  "education": {
+    "eyebrow": "06. Educación",
+    "title": "Educación",
+    "items": {
+      "usb": {
+        "degree": "Ingeniería de Sistemas",
+        "detail": "Minor en Ingeniería de Software y Gestión de la Tecnología de la Información"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "07. Contacto",
+    "title": "Hablemos",
+    "subtitle": "¿Tienes un proyecto de automatización, IA o desarrollo de software? Escríbeme por cualquiera de estos canales.",
+    "email": "Correo",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "builtWith": "Construido con Next.js · Desplegado en Vercel",
+    "rights": "Todos los derechos reservados."
+  }
+}

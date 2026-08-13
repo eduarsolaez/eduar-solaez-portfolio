@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "Eduar Solaez — Automation Engineer & Software Developer",
+    "description": "Portfolio of Eduar Iván Solaez Olivera: process automation with n8n, Python/Java software development, applied AI, and cybersecurity in progress."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "cybersecurity": "Cybersecurity",
+    "education": "Education",
+    "contact": "Contact",
+    "downloadCv": "Download CV"
+  },
+  "hero": {
+    "greeting": "> whoami",
+    "role": "Systems Engineer",
+    "roles": [
+      "Automation Engineer",
+      "Software Developer",
+      "AI-Driven Automation",
+      "Cybersecurity — in progress"
+    ],
+    "tagline": "I design automation workflows, microservices, and AI-powered tools that cut execution time and improve decision-making in real operations.",
+    "ctaProjects": "View projects",
+    "ctaContact": "Let's talk"
+  },
+  "about": {
+    "eyebrow": "01. About",
+    "title": "About me",
+    "paragraphs": [
+      "I'm a Systems Engineer specialized in process automation, software development, and systems integration, with experience in data analysis and geospatial information management.",
+      "I build solutions powered by Artificial Intelligence, Python, Java, and n8n to optimize operations, cut execution time, and improve decision-making for real-world teams.",
+      "I'm defined by analytical thinking, continuous learning, and a focus on technological innovation to solve complex problems through the strategic use of data and intelligent models."
+    ],
+    "quickFacts": {
+      "role": "Automation Engineer / Software Developer",
+      "focus": "Applied AI, automation, systems integration",
+      "basedIn": "Barranquilla, Colombia"
+    }
+  },
+  "skills": {
+    "eyebrow": "02. Skills",
+    "title": "Technical skills",
+    "categories": {
+      "development": { "label": "Development" },
+      "aiAutomation": { "label": "AI & Automation" },
+      "data": { "label": "Data & Visualization" },
+      "devops": { "label": "DevOps" },
+      "cybersecurity": { "label": "Cybersecurity", "badge": "In progress" }
+    },
+    "items": {
+      "python": "Python",
+      "java": "Java",
+      "n8n": "n8n",
+      "microservices": "Microservices",
+      "restApis": "REST APIs",
+      "ai": "Artificial Intelligence",
+      "machineLearning": "Machine Learning",
+      "generativeAi": "Generative AI",
+      "automation": "Process automation",
+      "sql": "SQL & databases",
+      "powerBi": "Power BI / Dashboards",
+      "arcgis": "ArcGIS",
+      "git": "Git",
+      "github": "GitHub",
+      "gitlab": "GitLab",
+      "cloud": "Cloud environments",
+      "linux": "Linux",
+      "offensivePython": "Offensive Python",
+      "webPentesting": "Web pentesting"
+    }
+  },
+  "experience": {
+    "eyebrow": "03. Experience",
+    "title": "Professional experience",
+    "items": {
+      "ises": {
+        "role": "Automation Engineer / Software Developer",
+        "bullets": [
+          "Designed and implemented n8n automation workflows connecting applications, APIs, and operational systems.",
+          "Built microservices to support n8n workflows and other operational processes.",
+          "Developed Python desktop applications (backend and UI) to automate legacy apps, including Oracle BI report generation and Excel file processing.",
+          "Built an Android bot as an .aar library that uses accessibility services to automate a legacy app's interface for field staff.",
+          "Gathered operational requirements directly in the field, running the full cycle from requirements to solution delivery."
+        ]
+      },
+      "gis": {
+        "role": "GIS Data Analyst",
+        "bullets": [
+          "Implemented new AI technologies to automate operational processes and reduce manual tasks.",
+          "Built web tools and dashboards for data visualization and management.",
+          "Analyzed and visualized geospatial data using ArcGIS.",
+          "Contributed to digital transformation initiatives integrating AI and automation into business processes."
+        ]
+      },
+      "usb": {
+        "role": "Professional Internship — Computer Lab Coordination",
+        "bullets": [
+          "Provided level-1 technical support to users and computer equipment.",
+          "Verified and maintained proper functioning of lab equipment.",
+          "Installed, configured, and updated academic and administrative software.",
+          "Managed users and equipment through Active Directory."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "04. Projects",
+    "title": "Featured work",
+    "subtitle": "Work delivered for energy-sector clients (Air-e, Afinia, Electrohuila) through ISES S.A.S. These are internal client projects, so no public repository is available.",
+    "confidentialBadge": "Internal project",
+    "items": {
+      "n8nAutomation": {
+        "title": "n8n automation workflows",
+        "description": "Automation workflows connecting apps, APIs, and operational systems for energy-sector clients, cutting repetitive manual work.",
+        "tags": ["n8n", "REST APIs", "Systems integration"]
+      },
+      "microservices": {
+        "title": "Supporting microservices",
+        "description": "Python microservices built to support n8n workflows and other automation processes across the operation.",
+        "tags": ["Microservices", "Python", "REST APIs"]
+      },
+      "desktopAutomation": {
+        "title": "Legacy reporting automation",
+        "description": "Python desktop application (backend and UI) that automates Oracle BI report generation and Excel file processing.",
+        "tags": ["Python", "Oracle BI", "Excel"]
+      },
+      "androidBot": {
+        "title": "Android accessibility bot",
+        "description": ".aar library that uses Android accessibility services to automate a legacy app's interface for field staff.",
+        "tags": ["Android", "Accessibility Services", ".aar"]
+      },
+      "gisDashboards": {
+        "title": "Geospatial dashboards",
+        "description": "Web tools and dashboards for geospatial data visualization and management using ArcGIS and Power BI.",
+        "tags": ["ArcGIS", "Power BI", "Geospatial"]
+      }
+    }
+  },
+  "cybersecurity": {
+    "eyebrow": "05. Cybersecurity",
+    "title": "Building my path in cybersecurity",
+    "prompt": "$ status --module=cybersecurity",
+    "intro": "Alongside development and automation, I'm actively building skills in offensive and defensive cybersecurity. I don't present this as consolidated experience — it's an area I'm steadily working on.",
+    "tracks": {
+      "linux": { "label": "Linux fundamentals", "stage": "Foundations" },
+      "python": { "label": "Offensive Python", "stage": "In progress" },
+      "pentesting": { "label": "Web pentesting", "stage": "In progress" }
+    },
+    "disclaimer": "Self-directed, ongoing training — not equivalent to professional cybersecurity experience."
+  },
+  "education": {
+    "eyebrow": "06. Education",
+    "title": "Education",
+    "items": {
+      "usb": {
+        "degree": "Systems Engineering",
+        "detail": "Minor in Software Engineering and IT Management"
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "07. Contact",
+    "title": "Let's talk",
+    "subtitle": "Got an automation, AI, or software development project in mind? Reach out through any of these channels.",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "builtWith": "Built with Next.js · Deployed on Vercel",
+    "rights": "All rights reserved."
+  }
+}
